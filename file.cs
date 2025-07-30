@@ -1,1 +1,5 @@
-class Person{}
+class Person{
+  int id;
+  string name;
+  int age;
+}
